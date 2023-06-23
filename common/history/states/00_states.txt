@@ -109,7 +109,6 @@ STATES = {
 		}
 		create_state = {
 			country = c:OMA
-			state_type = treaty_port
 			owned_provinces = { xB7B2BD }
 		}
 		create_state = {
@@ -3584,7 +3583,6 @@ STATES = {
 		create_state = {
 			country = c:FRA
 			owned_provinces = { xABADB1 }
-			state_type = treaty_port
 		}
 		create_state = {
 			country = c:BIC
@@ -3942,7 +3940,6 @@ STATES = {
 		create_state = {
 			country = c:GBR
 			owned_provinces = { xC00130 }
-			state_type = treaty_port
 		}
 		create_state = {
 			country = c:PRK
@@ -6024,8 +6021,6 @@ STATES = {
 		create_state = {
 			country = c:POR
 			owned_provinces = { xB031E0 }
-			state_type = unincorporated
-			state_type = treaty_port
 		}
 
 		add_homeland = yue
