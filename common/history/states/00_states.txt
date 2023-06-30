@@ -6046,6 +6046,7 @@ STATES = {
 		create_state = {
 			country = c:POR
 			owned_provinces = { xB031E0 }
+			state_type = unincorporated
 		}
 
 		add_homeland = cu:yue
